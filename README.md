@@ -3,7 +3,7 @@
 This repository contains a full-fledged QA project for an e-commerce system, focusing on:
 
 - Manual UI testing (OpenCart demo)
-- API testing (public e-commerce-style APIs using Postman)
+- API testing (public e-commerce-style API (fakestoreapi.com) using Postman)
 - Backend validation using SQL queries
 
 It is structured to resemble how a real QA project is managed in industry, with clear separation for:
