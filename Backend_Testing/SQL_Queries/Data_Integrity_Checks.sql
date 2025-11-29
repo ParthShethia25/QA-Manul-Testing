@@ -1,0 +1,5 @@
+-- Verify that all order_items belong to a valid order
+SELECT oi.*
+FROM order_items oi
+LEFT JOIN orders o ON oi.order_id = o.order_id
+WHERE o.order_id IS NULL;

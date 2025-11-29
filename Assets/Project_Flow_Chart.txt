@@ -1,0 +1,9 @@
+1. Receive requirements
+2. Design test scenarios
+3. Design test cases
+4. Execute UI tests
+5. Execute API tests
+6. Validate data via SQL
+7. Log and track bugs
+8. Re-test and regression
+9. Prepare summary report

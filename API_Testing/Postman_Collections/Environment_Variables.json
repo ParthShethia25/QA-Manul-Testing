@@ -1,0 +1,11 @@
+{
+  "id": "dummy-env-id",
+  "name": "Ecommerce_Env",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://fakestoreapi.com",
+      "enabled": true
+    }
+  ]
+}

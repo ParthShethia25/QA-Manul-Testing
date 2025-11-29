@@ -1,0 +1,5 @@
+E-Commerce QA System
+
+[User] -> [UI Layer: OpenCart Demo]
+      -> [API Layer: Public REST APIs]
+      -> [DB Layer: Sample SQL Schema]

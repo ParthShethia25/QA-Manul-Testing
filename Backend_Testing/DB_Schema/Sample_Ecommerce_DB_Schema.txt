@@ -1,0 +1,5 @@
+Tables (conceptual):
+- users(user_id, name, email, password_hash, created_at)
+- products(product_id, name, price, stock_qty, created_at)
+- orders(order_id, user_id, total_amount, status, created_at)
+- order_items(order_item_id, order_id, product_id, quantity, price)
